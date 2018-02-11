@@ -1,0 +1,16 @@
+-git inint
+-git add
+-git status
+-git commit -m "[]"
+-git config --global user.name "[]"
+-git config --global user.email "[]"
+-git rm[]
+-git log
+-git revert
+-git remote add origin
+-git push -u origin master
+-git branch
+-git checkout
+-git merge
+
+
